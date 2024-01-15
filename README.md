@@ -11,3 +11,6 @@ The CreateWindowEx function is called to create the main window with specified a
 Displaying the Main Window:
 
 The ShowWindow function is called to make the main window visible on the screen.
+
+
+The task.json file is like an instruction manual for a robot in Visual Studio Code. It tells the program how to build and run your code. It contains specific instructions and settings for these tasks. Developers can modify it to ensure that their project functions correctly.
